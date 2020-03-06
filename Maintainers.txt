@@ -69,12 +69,14 @@ Tianocore Stewards
 ------------------
 F: *
 M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+M: Sumana Venur [svenur] <sumana.venur@intel.com>
 
 EDK II Continuous Integration:
 ------------------------------
 .azurepipelines/
 F: .azurepipelines/
-R: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+R: Sumana Venur [svenur] <sumana.venur@intel.com>
 
 .github/
 F: .github/
@@ -103,23 +105,28 @@ FmpDevicePkg
 F: FmpDevicePkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/FmpDevicePkg
 M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+R: Sumana Venur [svenur] <sumana.venur@intel.com>
 
 IntelFsp2Pkg
 F: IntelFsp2Pkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/IntelFsp2Pkg
 M: Nate DeSimone [nate-desimone] <nathaniel.l.desimone@intel.com>
+R: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
 
 IntelFsp2WrapperPkg
 F: IntelFsp2WrapperPkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/IntelFsp2WrapperPkg
 M: Nate DeSimone [nate-desimone] <nathaniel.l.desimone@intel.com>
+R: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
 
 MdePkg
 F: MdePkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/MdePkg
 M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+R: Sumana Venur [svenur] <sumana.venur@intel.com>
 
 UnitTestFrameworkPkg
 F: UnitTestFrameworkPkg/
 M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+R: Sumana Venur [svenur] <sumana.venur@intel.com>
 S: Maintained
