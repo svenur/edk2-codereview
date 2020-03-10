@@ -61,72 +61,72 @@ T: git - https://github.com/tianocore/edk2.git
 T: git (mirror) - https://bitbucket.org/tianocore/edk2.git
 
 All patches CC:d here
-L: EDK II Development Mailing List [] devel@edk2.groups.io
+L: EDK II Development Mailing List <devel@edk2.groups.io> []
 F: *
 F: */
 
 Tianocore Stewards
 ------------------
 F: *
-M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
-M: Sumana Venur [svenur] <sumana.venur@intel.com>
+M: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
+M: Sumana Venur <sumana.venur@intel.com> [svenur]
 
 EDK II Continuous Integration:
 ------------------------------
 .azurepipelines/
 F: .azurepipelines/
-M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
-R: Sumana Venur [svenur] <sumana.venur@intel.com>
+M: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
+R: Sumana Venur <sumana.venur@intel.com> [svenur]
 
 .github/
 F: .github/
-M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
-R: Sumana Venur [svenur] <sumana.venur@intel.com>
+M: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
+R: Sumana Venur <sumana.venur@intel.com> [svenur]
 
 .mergify/
 F: .mergify/
-M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
-R: Erik Bjorge [ErikBjorge] <erik.c.bjorge@intel.com>
+M: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
+R: Erik Bjorge <erik.c.bjorge@intel.com> [ErikBjorge]
 
 .pytool/
 F: .pytool/
-M: Erik Bjorge [ErikBjorge] <erik.c.bjorge@intel.com>
-R: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+M: Erik Bjorge <erik.c.bjorge@intel.com> [ErikBjorge]
+R: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
 
 EDK II Packages:
 ----------------
 BaseTools
 F: BaseTools/
 W: https://github.com/tianocore/tianocore.github.io/wiki/BaseTools
-M: Erik Bjorge [ErikBjorge] <erik.c.bjorge@intel.com>
-R: Nate DeSimone [nate-desimone] <nathaniel.l.desimone@intel.com>
+M: Erik Bjorge <erik.c.bjorge@intel.com> [ErikBjorge]
+R: Nate DeSimone <nathaniel.l.desimone@intel.com> [nate-desimone]
 
 FmpDevicePkg
 F: FmpDevicePkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/FmpDevicePkg
-M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
-R: Sumana Venur [svenur] <sumana.venur@intel.com>
+M: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
+R: Sumana Venur <sumana.venur@intel.com> [svenur]
 
 IntelFsp2Pkg
 F: IntelFsp2Pkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/IntelFsp2Pkg
-M: Nate DeSimone [nate-desimone] <nathaniel.l.desimone@intel.com>
-R: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+M: Nate DeSimone <nathaniel.l.desimone@intel.com> [nate-desimone]
+R: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
 
 IntelFsp2WrapperPkg
 F: IntelFsp2WrapperPkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/IntelFsp2WrapperPkg
-M: Nate DeSimone [nate-desimone] <nathaniel.l.desimone@intel.com>
-R: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
+M: Nate DeSimone <nathaniel.l.desimone@intel.com> [nate-desimone]
+R: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
 
 MdePkg
 F: MdePkg/
 W: https://github.com/tianocore/tianocore.github.io/wiki/MdePkg
-M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
-R: Sumana Venur [svenur] <sumana.venur@intel.com>
+M: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
+R: Sumana Venur <sumana.venur@intel.com> [svenur]
 
 UnitTestFrameworkPkg
 F: UnitTestFrameworkPkg/
-M: Michael D Kinney [mdkinney] <michael.d.kinney@intel.com>
-R: Sumana Venur [svenur] <sumana.venur@intel.com>
+M: Michael D Kinney <michael.d.kinney@intel.com> [mdkinney]
+R: Sumana Venur <sumana.venur@intel.com> [svenur]
 S: Maintained
