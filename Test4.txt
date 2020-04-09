@@ -1,10 +1,10 @@
-line 1 of test4
+line 1 of test4 new line to test position number
 line 2 of test4
 line 3 of test4
 line 4 of test4
 
 
-
+Adding new lines to test position number
 
 
 line 10 of test4
